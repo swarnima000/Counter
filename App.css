@@ -1,0 +1,17 @@
+.card {
+  width: 30%;
+  border-width: 5px;
+  border-color: #888;
+  background-color: #5c0c0c;
+  font-size: 16px;
+  border-style: groove;
+  color: azure;
+  text-align: center;
+}
+
+button {
+  background-color: aliceblue;
+  font-size: 18px;
+  color: brown;
+  font-weight: bold;
+}
