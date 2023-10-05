@@ -1,6 +1,7 @@
 # Counter
 
  Create a new folder in vscode.
+ 
  Open in integrated terminal
  
  Use following commands:
