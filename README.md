@@ -19,4 +19,5 @@ select react framwork and javascript variant
 `npm run dev`
 
 Copy localhost link and paste into browser.
+
 Delete index and copy App.css, App.jsx and Main.jsx
